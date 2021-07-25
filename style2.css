@@ -6,7 +6,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15pt;
     background-color: rgb(0, 0, 0);
-    background-image: linear-gradient(rgb(31, 32, 31) 30%,rgb(8, 37, 5),rgb(21, 24, 21));
+    background-image: linear-gradient(rgb(31, 32, 31) 60%,rgb(8, 37, 5),rgb(21, 24, 21));
 
 }
 
@@ -59,4 +59,10 @@ details:hover{
         background-color: rgb(77, 85, 76);
     */
     color:rgb(108, 175, 41)
+}
+
+footer {
+    color:aqua;
+    font-size: small;
+    line-height: 50px;
 }
